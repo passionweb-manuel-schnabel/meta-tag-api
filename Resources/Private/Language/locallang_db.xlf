@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:meta_tag_api/Resources/Private/Language/backend.xlf" date="2022-10-12T13:12:24Z" product-name="meta_tag_api">
+		<header/>
+		<body>
+		    <trans-unit id="plugin_metatagapi_extendedmetadata.name" resname="plugin_metatagapi_extendedmetadata.name">
+                <source>Extend meta tags by API</source>
+            </trans-unit>
+            <trans-unit id="plugin_metatagapi_extendedmetadata.description" resname="plugin_metatagapi_extendedmetadata.description">
+                <source>Sets/extends the og:title and twitter:title of the current page.</source>
+            </trans-unit>
+		</body>
+	</file>
+</xliff>
